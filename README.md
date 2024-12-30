@@ -1,4 +1,4 @@
-<h1 align="center">🏆 Ultimate Technical Interview Questions</h1>
+<h1 align="center">🏆 ULTIMATE TECHNICAL INTERVIEW QUESTIONS</h1>
 
 
 <h2>📚 Introduction</h2>
